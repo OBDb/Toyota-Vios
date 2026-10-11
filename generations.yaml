@@ -1,0 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/Toyota_Vios"
+
+generations:
+  - name: "Second Generation (XP90)"
+    start_year: 2007
+    end_year: 2013
+    description: "The Asian-market sedan related to the Yaris sedan, with 1.3 L and 1.5 L engines."
+  - name: "Third Generation (XP150)"
+    start_year: 2013
+    end_year: 2023
+    description: "With 1.3 L and 1.5 L NR-series engines."
